@@ -1,0 +1,19 @@
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu Production.csprojAssemblyReference.cache
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu_Production.Properties.Resources.resources
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu Production.csproj.GenerateResource.cache
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu Production.csproj.CoreCompileInputs.cache
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\bin\Debug\AnSu Production.exe.config
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\bin\Debug\AnSu Production.exe
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\bin\Debug\AnSu Production.pdb
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu Production.exe
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu Production.pdb
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu_Production.dashboard.resources
+C:\Users\atboy\source\repos\AnSu Production\AnSu Production\obj\Debug\AnSu_Production.product.resources
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\AnSu Production.csprojAssemblyReference.cache
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\KFC.dashboard.resources
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\KFC.product.resources
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\AnSu_Production.Properties.Resources.resources
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\AnSu Production.csproj.GenerateResource.cache
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\AnSu Production.csproj.CoreCompileInputs.cache
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\AnSu Production.exe
+C:\Users\atboy\source\repos\KFC\KFC\obj\Debug\AnSu Production.pdb
